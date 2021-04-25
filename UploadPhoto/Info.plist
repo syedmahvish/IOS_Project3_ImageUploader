@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>PrivaPrivacy - Photo Library Usage Description</key>
+	<string>Import people photo</string>
 </dict>
 </plist>
